@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/9652826/194838459-52c128b3-da6c-4f93-9dcf-b1640cfeeb1a.png)
 
+## [Click to Demo](https://amuse-harshan.web.app/)
+
 In the project directory, you can run:
 
 ### `npm install`
@@ -22,5 +24,5 @@ Launches the test runner in the interactive watch mode.
 e2e test with video.
 #### `npx cypress run --spec "cypress/e2e/home.cy.ts"` 
 
-Download and watch recent [Test Video](https://github.com/harshan89/amused/blob/master/cypress/videos/home.cy.ts.mp4?raw=true)
+Download and watch recent [Test Video mp4](https://github.com/harshan89/amused/blob/master/cypress/videos/home.cy.ts.mp4?raw=true)
 
